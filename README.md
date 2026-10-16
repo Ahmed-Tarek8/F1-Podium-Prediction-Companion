@@ -64,17 +64,3 @@ Regenerate the PDF after a run: `python make_report.py .` (needs `reportlab`, `p
 * Validation was reused for preprocessing, hyper-parameters, early stopping and the threshold, so validation scores are mildly optimistic.
 * Each driver is scored independently; nothing forces exactly three podiums per race.
 * The saved `.joblib` models contain the notebook's own `Preprocessor` class; the notebook retrains everything and does not depend on them.
-
-## Before submitting (IMPORTANT)
-
-1. Use the **integrated** notebook on Kaggle (attach or upload all 14 CSVs); enable Internet if LIME is absent.
-2. Click **Run All**, inspect any errors, and **Save Version** with outputs. Confirm it can be opened by your evaluator.
-3. Add the published Kaggle URL, GitHub URL and real team IDs.
-4. Refresh the PDF using `python make_report.py .` after the run, or use the bundled verified PDF if metrics match.
-5. Submit the accessible Kaggle notebook link, GitHub repo link, and PDF on the official form by October 18, 2026, 11:59 PM.
-
-**Metric note:** the notebook computes scikit-learn `average_precision_score` and labels it PR-AUC/AP.
-**Comparison note:** RF beats the grid-only baseline on AP, ROC-AUC and F1 (test), but not on every metric.
-**Test handling:** test data is used for final evaluation, explainability and sensitivity analysis only; it is not used to tune the final pipeline.
-
-**Verification limitation:** the corrected notebook has been executed end-to-end through SHAP, inference and export except for the two LIME-specific cells: LIME was unavailable in the local test environment. The original LIME plots/results are retained; rerun these cells through Kaggle Run All with LIME installed. No claim of a complete Kaggle execution is made.
