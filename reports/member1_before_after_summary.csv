@@ -1,0 +1,4 @@
+metric,before,after
+literal sentinel cells,160076,0
+results rows,26759,26668
+duplicated driver-race pairs,85,0

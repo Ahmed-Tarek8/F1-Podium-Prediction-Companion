@@ -1,0 +1,14 @@
+metric,value
+tables_inspected,14
+raw_results_rows,26759
+raw_literal_sentinel_cells,160076
+remaining_literal_sentinel_cells,0
+pk_violations,0
+fk_unmatched_rows,0
+duplicate_driver_race_pairs_before,85
+duplicate_driver_race_rows_before,176
+duplicate_rows_removed,91
+duplicate_driver_race_pairs_after,0
+final_driver_race_rows,26668
+race_year_min,1950
+race_year_max,2024

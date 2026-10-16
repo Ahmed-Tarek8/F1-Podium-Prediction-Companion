@@ -1,0 +1,15 @@
+table,rows,columns,sentinel_cells,empty_string_cells,exact_duplicate_rows,expected_pk,pk_null_rows,pk_duplicate_rows,pk_duplicate_keys
+circuits,77,9,0,0,0,circuitId,0,0,0
+constructor_results,12625,5,12608,0,0,constructorResultsId,0,0,0
+constructor_standings,13391,7,0,0,0,constructorStandingsId,0,0,0
+constructors,212,5,0,0,0,constructorId,0,0,0
+driver_standings,34863,7,0,0,0,driverStandingsId,0,0,0
+drivers,861,9,1559,0,0,driverId,0,0,0
+lap_times,589081,6,0,0,0,"raceId, driverId, lap",0,0,0
+pit_stops,11371,7,0,0,0,"raceId, driverId, stop",0,0,0
+qualifying,10494,9,11600,68,0,qualifyId,0,0,0
+races,1125,18,11349,0,0,raceId,0,0,0
+results,26759,18,122887,0,0,resultId,0,0,0
+seasons,75,2,0,0,0,year,0,0,0
+sprint_results,360,16,73,0,0,resultId,0,0,0
+status,139,2,0,0,0,statusId,0,0,0

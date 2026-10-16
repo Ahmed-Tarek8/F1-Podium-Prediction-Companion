@@ -1,0 +1,4 @@
+case,shap_top5,lime_top5,shared_top5,sign_agreement_on_shared,lime_seed_stability_top5
+A_confident_correct,"grid_pos, quali_pos, quali_gap_pct, drv_podium_rate_last10, drv_points_share","quali_pos, grid_pos, quali_gap_pct, drv_podium_rate_last10, drv_points_share",5,5/5,0.86
+B_confident_wrong,"grid_pos, quali_pos, quali_gap_pct, drv_podium_rate_last10, drv_points_share","quali_pos, grid_pos, quali_gap_pct, drv_podium_rate_last10, drv_points_share",5,5/5,0.92
+C_biggest_surprise,"quali_pos, grid_pos, quali_gap_pct, drv_podium_rate_last10, team_best_finish_last10","quali_pos, drv_podium_rate_last10, grid_pos, team_points_share, drv_wins_before",3,3/3,0.8

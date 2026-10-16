@@ -1,0 +1,11 @@
+check,flagged_rows
+"circuits latitude outside [-90,90]",0
+"circuits longitude outside [-180,180]",0
+results positionOrder < 1,0
+results laps < 0,0
+results points < 0,0
+qualifying position < 1,0
+lap_times lap < 1,0
+lap_times milliseconds <= 0,0
+pit_stops stop < 1,0
+pit_stops lap < 1,0

@@ -1,0 +1,101 @@
+{
+  "target": "podium",
+  "id_columns": [
+    "raceId",
+    "driverId",
+    "constructorId",
+    "circuitId",
+    "race_year",
+    "race_round",
+    "race_date"
+  ],
+  "features": [
+    "grid_pos",
+    "grid_penalty",
+    "quali_pos",
+    "quali_gap_pct",
+    "drv_podium_rate_last10",
+    "drv_avg_finish_last10",
+    "drv_dnf_rate_last10",
+    "team_podium_rate_last10",
+    "team_best_finish_last10",
+    "drv_points_share",
+    "drv_wins_before",
+    "team_points_share",
+    "drv_starts_before",
+    "drv_age",
+    "drv_circuit_podiums_before"
+  ],
+  "feature_groups": {
+    "grid": [
+      "grid_pos",
+      "grid_penalty"
+    ],
+    "qualifying": [
+      "quali_pos",
+      "quali_gap_pct"
+    ],
+    "form": [
+      "drv_podium_rate_last10",
+      "drv_avg_finish_last10",
+      "drv_dnf_rate_last10",
+      "team_podium_rate_last10",
+      "team_best_finish_last10"
+    ],
+    "standings": [
+      "drv_points_share",
+      "drv_wins_before",
+      "team_points_share"
+    ],
+    "experience": [
+      "drv_starts_before",
+      "drv_age",
+      "drv_circuit_podiums_before"
+    ]
+  },
+  "ablation_drop": {
+    "grid": [
+      "grid_pos",
+      "grid_penalty"
+    ],
+    "qualifying": [
+      "quali_pos",
+      "quali_gap_pct",
+      "grid_penalty"
+    ],
+    "form": [
+      "drv_podium_rate_last10",
+      "drv_avg_finish_last10",
+      "drv_dnf_rate_last10",
+      "team_podium_rate_last10",
+      "team_best_finish_last10"
+    ],
+    "standings": [
+      "drv_points_share",
+      "drv_wins_before",
+      "team_points_share"
+    ],
+    "experience": [
+      "drv_starts_before",
+      "drv_age",
+      "drv_circuit_podiums_before"
+    ],
+    "grid_and_qualifying": [
+      "grid_pos",
+      "grid_penalty",
+      "quali_pos",
+      "quali_gap_pct"
+    ]
+  },
+  "binary_features": [
+    "grid_penalty"
+  ],
+  "modeling_years": [
+    2003,
+    2024
+  ],
+  "evidence_years": [
+    2003,
+    2018
+  ]
+}

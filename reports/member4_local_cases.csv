@@ -1,0 +1,4 @@
+case,row,driver,race,grid,predicted_prob,predicted_podium,actual_podium
+A_confident_correct,287,Max Verstappen,Dutch Grand Prix 2022,1,0.907,1,1
+B_confident_wrong,1086,Max Verstappen,Austrian Grand Prix 2024,1,0.893,1,0
+C_biggest_surprise,690,Pierre Gasly,Dutch Grand Prix 2023,12,0.001,0,1

@@ -1,0 +1,7 @@
+unit,members,mean_drop,std_drop,split,level
+grid + qualifying (joint),"grid_pos, grid_penalty, quali_pos, quali_gap_pct, quali_gap_pct_missing",0.36723379933282463,0.025795010702027863,test,group
+qualifying,"quali_pos, quali_gap_pct, quali_gap_pct_missing",0.1110544023638882,0.016577752869580527,test,group
+grid,"grid_pos, grid_penalty",0.05954005855932025,0.01567884803645764,test,group
+form,"drv_podium_rate_last10, drv_avg_finish_last10, drv_dnf_rate_last10, team_podium_rate_last10, team_best_finish_last10, drv_podium_rate_last10_missing, drv_avg_finish_last10_missing, drv_dnf_rate_last10_missing, team_podium_rate_last10_missing, team_best_finish_last10_missing",0.037536416846639206,0.011892541992494515,test,group
+standings,"drv_points_share, drv_wins_before, team_points_share, drv_points_share_missing, team_points_share_missing",0.016204540242986298,0.012762812660932332,test,group
+experience,"drv_starts_before, drv_age, drv_circuit_podiums_before",-0.0017659056523543048,0.005183040230952649,test,group

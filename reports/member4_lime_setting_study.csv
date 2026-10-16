@@ -1,0 +1,5 @@
+setting,mean_abs_error_vs_model,mean_local_r2
+"decile bins, kernel 1.0",0.030355938883961178,0.48913809303689076
+"decile bins, default kernel",0.060612977104238935,0.33327561034681025
+"quartile bins, kernel 1.0",0.07752811813396633,0.5976533648684659
+"quartile bins, default kernel",0.12406184481201173,0.5597379382872796

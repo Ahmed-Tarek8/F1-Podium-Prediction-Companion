@@ -1,0 +1,86 @@
+raceId,driverId,year,race_name,records,distinct_grids,distinct_constructors,best_positionOrder,worst_positionOrder,mixed_podium_outcome
+540,229,1978,Italian Grand Prix,2,1,2,26,29,False
+717,373,1964,United States Grand Prix,2,1,1,7,12,False
+733,465,1962,British Grand Prix,2,1,2,22,25,False
+742,475,1961,British Grand Prix,2,2,2,19,21,False
+745,418,1961,United States Grand Prix,2,2,1,11,17,False
+746,475,1960,Argentine Grand Prix,2,2,1,3,17,True
+766,541,1958,Monaco Grand Prix,2,1,2,17,27,False
+770,479,1958,French Grand Prix,2,2,1,14,18,False
+774,566,1958,Italian Grand Prix,2,2,1,4,18,False
+776,581,1957,Argentine Grand Prix,2,2,1,6,14,False
+777,501,1957,Monaco Grand Prix,2,2,1,8,12,False
+777,578,1957,Monaco Grand Prix,2,2,1,7,16,False
+779,356,1957,French Grand Prix,2,2,1,7,13,False
+780,475,1957,British Grand Prix,2,2,1,1,12,True
+780,479,1957,British Grand Prix,2,2,1,1,12,True
+780,581,1957,British Grand Prix,2,2,1,4,11,False
+783,501,1957,Italian Grand Prix,2,2,1,5,16,False
+784,579,1956,Argentine Grand Prix,2,2,1,1,13,True
+785,579,1956,Monaco Grand Prix,2,2,1,2,4,True
+785,608,1956,Monaco Grand Prix,2,2,1,4,11,False
+787,475,1956,Belgian Grand Prix,2,2,1,3,11,True
+788,475,1956,French Grand Prix,2,2,1,5,18,False
+788,501,1956,French Grand Prix,2,2,1,10,19,False
+788,624,1956,French Grand Prix,2,2,2,8,13,False
+789,581,1956,British Grand Prix,2,2,1,2,17,True
+789,606,1956,British Grand Prix,2,2,1,2,10,True
+791,554,1956,Italian Grand Prix,2,2,1,13,15,False
+791,579,1956,Italian Grand Prix,2,2,1,2,8,True
+791,608,1956,Italian Grand Prix,2,2,1,8,19,False
+792,427,1955,Argentine Grand Prix,3,3,1,2,11,True
+792,475,1955,Argentine Grand Prix,2,2,1,4,13,False
+792,496,1955,Argentine Grand Prix,2,2,1,9,21,False
+792,501,1955,Argentine Grand Prix,3,3,1,6,9,False
+792,554,1955,Argentine Grand Prix,3,3,1,6,17,False
+792,577,1955,Argentine Grand Prix,2,2,1,7,8,False
+792,633,1955,Argentine Grand Prix,2,2,1,12,19,False
+792,642,1955,Argentine Grand Prix,2,2,1,2,3,False
+792,644,1955,Argentine Grand Prix,2,2,1,7,8,False
+792,648,1955,Argentine Grand Prix,2,2,1,4,18,False
+793,554,1955,Monaco Grand Prix,2,2,1,3,10,True
+793,607,1955,Monaco Grand Prix,2,2,1,3,10,True
+795,554,1955,Belgian Grand Prix,2,2,1,5,13,False
+797,501,1955,British Grand Prix,2,2,1,9,18,False
+797,608,1955,British Grand Prix,2,2,1,6,21,False
+800,509,1954,Indianapolis 500,2,2,1,20,28,False
+800,518,1954,Indianapolis 500,2,2,1,4,15,False
+800,529,1954,Indianapolis 500,2,2,1,15,29,False
+800,556,1954,Indianapolis 500,2,2,2,24,27,False
+800,593,1954,Indianapolis 500,2,2,1,11,32,False
+800,611,1954,Indianapolis 500,2,2,1,11,20,False
+800,612,1954,Indianapolis 500,3,3,3,11,25,False
+800,613,1954,Indianapolis 500,2,2,1,15,23,False
+800,653,1954,Indianapolis 500,2,2,1,11,20,False
+800,659,1954,Indianapolis 500,2,2,1,8,26,False
+800,702,1954,Indianapolis 500,2,2,2,18,25,False
+800,730,1954,Indianapolis 500,2,2,2,19,31,False
+801,498,1954,Belgian Grand Prix,2,2,1,4,12,False
+803,647,1954,British Grand Prix,2,2,1,21,24,False
+804,578,1954,German Grand Prix,2,2,1,2,17,True
+806,498,1954,Italian Grand Prix,2,2,1,3,17,True
+809,509,1953,Indianapolis 500,2,2,1,7,15,False
+809,512,1953,Indianapolis 500,2,2,2,19,32,False
+809,518,1953,Indianapolis 500,2,2,2,3,24,True
+809,520,1953,Indianapolis 500,2,2,2,9,28,False
+809,521,1953,Indianapolis 500,3,3,2,9,29,False
+809,555,1953,Indianapolis 500,2,2,1,4,25,False
+809,612,1953,Indianapolis 500,3,3,2,16,33,False
+809,702,1953,Indianapolis 500,2,2,2,12,31,False
+810,498,1953,Dutch Grand Prix,2,2,1,3,16,True
+811,579,1953,Belgian Grand Prix,2,2,1,12,15,False
+814,633,1953,German Grand Prix,2,2,1,8,17,False
+814,647,1953,German Grand Prix,2,2,1,8,17,False
+815,579,1953,Swiss Grand Prix,2,2,1,4,15,False
+815,697,1953,Swiss Grand Prix,2,2,1,4,15,False
+817,642,1952,Swiss Grand Prix,2,2,1,10,15,False
+820,501,1952,French Grand Prix,2,2,1,15,19,False
+823,759,1952,Dutch Grand Prix,2,2,1,9,17,False
+828,579,1951,French Grand Prix,2,2,1,1,11,True
+828,647,1951,French Grand Prix,2,2,1,2,18,True
+828,786,1951,French Grand Prix,2,2,1,1,11,True
+831,642,1951,Italian Grand Prix,2,2,1,3,16,True
+835,529,1950,Indianapolis 500,2,2,2,5,31,False
+838,627,1950,French Grand Prix,2,2,1,6,12,False
+839,579,1950,Italian Grand Prix,2,2,1,13,15,False
+839,647,1950,Italian Grand Prix,2,2,1,2,17,True
