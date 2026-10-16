@@ -3,7 +3,7 @@
 Predict which drivers finish on the podium of a Grand Prix using **only information available before the race**
 (grid slot, qualifying gap, recent form, championship standing, experience), and explain what the model relies on.
 
-* **Kaggle notebook:** Add the public link **after** publishing the run on Kaggle.
+* **Kaggle notebook:** https://www.kaggle.com/code/ahmedtarek12/notebook67d77bf047.
 * **Report:** `reports/F1_Podium_Prediction_Report.pdf`
 * **Team:** Add team members' names and IDs **before submission**.
 
